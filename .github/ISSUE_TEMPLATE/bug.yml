@@ -1,0 +1,23 @@
+name: Bug report
+description: Something broke or crashed
+labels: [bug]
+body:
+  - type: input
+    id: mod
+    attributes: {label: Which mod or modpack?, placeholder: "e.g. Stowage"}
+    validations: {required: true}
+  - type: input
+    id: version
+    attributes: {label: Mod version, placeholder: "e.g. 1.2.0"}
+    validations: {required: true}
+  - type: input
+    id: game
+    attributes: {label: Game, description: Game, version and loader, placeholder: "Minecraft 26.3, Fabric"}
+    validations: {required: true}
+  - type: textarea
+    id: what
+    attributes: {label: What happened?, description: Steps to reproduce and what you expected}
+    validations: {required: true}
+  - type: textarea
+    id: log
+    attributes: {label: Log or crash report, description: Paste latest.log or a link (mclo.gs)}

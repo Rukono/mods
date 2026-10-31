@@ -1,0 +1,12 @@
+name: Feature request
+description: Suggest something new
+labels: [enhancement]
+body:
+  - type: input
+    id: mod
+    attributes: {label: Which mod or modpack?}
+    validations: {required: true}
+  - type: textarea
+    id: idea
+    attributes: {label: What would you like?}
+    validations: {required: true}
