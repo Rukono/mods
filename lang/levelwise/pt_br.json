@@ -1,0 +1,34 @@
+{
+  "levelwise.levelup": "%s chegou ao nível %s! ",
+  "levelwise.perk_line": "Bônus: %s",
+  "levelwise.title": "%s %s",
+  "levelwise.milestone": "Marco!",
+  "levelwise.level_up": "Subiu de nível",
+  "levelwise.xp_gain": "%s +%s  ",
+  "levelwise.lv_max": "Lv %s (max)",
+  "levelwise.lv": "Lv %s ",
+  "levelwise.lv_xp": "Lv %s  %s / %s",
+  "levelwise.now.combat": "+%s%% dano, +%s corações",
+  "levelwise.now.exploring": "+%s%% velocidade",
+  "levelwise.now.drop": "%s%% chance de um segundo drop",
+  "levelwise.perk_now": "Bônus: %s",
+  "levelwise.skill_perk": "%s: %s",
+  "levelwise.click_top": "Click para mostrar os melhores jogadores",
+  "levelwise.total": "Níveis Totais: %s",
+  "levelwise.screen": "Habilidades",
+  
+  "levelwise.skill.mining": "Minerador",
+  "levelwise.perk.mining": "chance de um segundo drop de minérios e pedras",
+
+  "levelwise.skill.woodcutting": "Lenhador",
+  "levelwise.perk.woodcutting": "chance de um segundo drop de troncos",
+
+  "levelwise.skill.farming": "Fazendeiro",
+  "levelwise.perk.farming": "chance de um segundo drop de plantações maduras",
+
+  "levelwise.skill.combat": "Combate",
+  "levelwise.perk.combat": "causa mais dano e um coração a mais a cada 10 níveis",
+
+  "levelwise.skill.exploring": "Explorador",
+  "levelwise.perk.exploring": "anda mais rápido"
+}
